@@ -1,0 +1,5 @@
+git init
+git config --global user.nam "Cintia"
+git config --global user.email "cintiadeazevedocastro@yahoo.com.br"
+git add .
+git commit -m "Segundo commit"
